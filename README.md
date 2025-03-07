@@ -89,6 +89,5 @@ const { Builder, By, Key, until } = require('selenium-webdriver');
     - Enter the username and password.
     - Verify the page title to check if the login was successful.
 
-## Conclusion
-This project demonstrates the basics of **Selenium WebDriver** setup and a simple automation test script to log into a website. Customize the script to suit your testing needs.
+
 
